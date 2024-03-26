@@ -1,0 +1,5 @@
+.venv
+__pycache__
+output/*
+creds.txt
+.DS_Store
